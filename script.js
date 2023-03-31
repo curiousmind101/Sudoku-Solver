@@ -1,4 +1,4 @@
-alert("Welcome to The SudokuSolver");
+alert("Sorry This Site is note Woking, But you can See the Repositary for source code : ");
 
 var arr = [[], [], [], [], [], [], [], [], []]
 
