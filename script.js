@@ -1,4 +1,4 @@
-alert("Sorry This Site is note Woking, But you can See the Repositary for source code : https://github.com/curiousmind101/Sudoku-Solver");
+alert("Sorry! This site is currently not woking, but you can see the Repositary for source code at : https://github.com/curiousmind101/Sudoku-Solver");
 
 var arr = [[], [], [], [], [], [], [], [], []]
 
