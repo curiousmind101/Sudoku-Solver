@@ -1,5 +1,5 @@
 
-#Currently this site is not working due to stopage of the API used to fetch new generate problems
+#Currently this site is not working due to stopage of the API used to fetch new problems.
 API : https://sugoku.herokuapp.com/board?difficulty=easy
 
 # Sudoku-Solver
